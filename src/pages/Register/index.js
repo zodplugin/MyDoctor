@@ -37,12 +37,7 @@ const Register = ({navigation}) => {
       id: 4,
       label: 'Dokter Anak',
       value: 'dokter anak',
-    },
-    {
-      id: 5,
-      label: 'Dokter Bedah',
-      value: 'dokter bedah',
-    },
+    }
   ]);
 
   const [itemGender] = useState([
